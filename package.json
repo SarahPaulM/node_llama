@@ -1,5 +1,14 @@
 {
-  "name": "my-program",
+  "name": "node-llama",
   "version": "1.0.0",
-  "bin": "./index.js"
+  "bin": {
+    "my-program": "./index.js"
+  },
+  "description": "Simple Node.js project that creates a random llama to be your spirit animal (llamas only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }

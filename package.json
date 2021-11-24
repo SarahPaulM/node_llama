@@ -7,7 +7,7 @@
   "description": "Simple Node.js project that creates a random llama to be your spirit animal (llamas only)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
   "license": "ISC"
